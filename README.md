@@ -26,4 +26,4 @@ Everything stems from our MainApp javafx class located inside the first package 
 
 ## Authors
 
-Cameron Wood (cwood11@uab.edu), Tom El Safadi (ksafadi@uab.edu), Sonia Grzywocz (grzywocz@uab.edu), Meet Patel (meet19@uab.edu), Brittany Latham (ladyb28@uab.edu)
+ Sonia Grzywocz (grzywocz@uab.edu), Cameron Wood (cwood11@uab.edu), Tom El Safadi (ksafadi@uab.edu), Meet Patel (meet19@uab.edu), Brittany Latham (ladyb28@uab.edu)
